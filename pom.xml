@@ -41,6 +41,6 @@
 
 
 	<build>
-		<finalName>HelloWorld</finalName>
+		<finalName>helloworld</finalName>
 	</build>
 </project>
