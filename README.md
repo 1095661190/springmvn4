@@ -1,6 +1,6 @@
-spring mvc 测试项目
-maven 
+spring mvc 测试项目  
+maven   
 
 
-部署tomcat 
-访问 ip:port/helloworld 
+部署tomcat   
+访问 ip:port/helloworld   
